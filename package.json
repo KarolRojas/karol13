@@ -1,0 +1,15 @@
+{
+  "name": "karol13",
+  "version": "1.0.0",
+  "description": "Karol Rojas - Software Engineer",
+  "author": "Karol Rojas",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
